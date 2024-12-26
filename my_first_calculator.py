@@ -20819,4 +20819,4 @@ if num1 == 50 and sign == '*' and num2 == 49:
 if num1 == 50 and sign == '*' and num2 == 50:
     print("50*50 = 2500")
 
-print("Thanks for using this calculator, goodbye :)")
+print("Thanks for using this calculator, goodbye! Visit again :)")
